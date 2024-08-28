@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raphaël Géron</h1>
 <h3 align="center">An HEC/ENSAE student passionate about Software development and Machine Learning</h3>
+<img align="right" alt="Coding" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg">
 
 - 🔭 I’m currently working on **2 mobiles apps**
 
